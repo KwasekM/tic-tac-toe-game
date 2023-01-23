@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Press Start 2P", cursive;
+}
+body {
+  min-width: 280px;
+  background: linear-gradient(#e66465, #9198e5);
+}
+#root {
+  height: 100vh;
+}
